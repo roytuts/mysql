@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/how-to-delete-duplicate-records-from-mysql-table/
