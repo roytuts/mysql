@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/select-only-one-random-item-from-each-category-in-mysql/
